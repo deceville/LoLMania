@@ -93,6 +93,9 @@ hr {
     z-index:120;
 }
 
+.service-box{
+	padding-bottom: 35px;
+}
 
 .section-heading h2 {
 	font-size: 40px;
